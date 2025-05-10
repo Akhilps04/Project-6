@@ -28,3 +28,11 @@ Dense Layers: Perform classification using softmax for multiclass output.
 # Results
 The model achieved a test accuracy of ~75-85% after applying data augmentation and other enhancements.
 Accuracy may vary depending on training duration, hardware, and hyperparameters.
+
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors and colleagues for their guidance.
+
+📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
+
