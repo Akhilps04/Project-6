@@ -33,6 +33,6 @@ Accuracy may vary depending on training duration, hardware, and hyperparameters.
 The dataset was sourced from Kaggle.
 Thanks to my mentors and colleagues for their guidance.
 
-📄 License
+# 📄 License
 This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
 
